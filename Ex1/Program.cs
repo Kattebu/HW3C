@@ -15,6 +15,7 @@ if (number>=10000 && number<=99999)
     else
     {
     Console.WriteLine("число не является палиндромом");
+    break;
     }
     }
 }
